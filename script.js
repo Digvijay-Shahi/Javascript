@@ -196,8 +196,45 @@
 //Array
 
 
-let arr = [1,2,3,4,5]
-console.log(arr)
+// let arr = [1,2,3,4,5]
+// console.log(arr)
 
-let newArr = arr.slice(1,3)
-console.log(newArr)
+// let newArr = arr.slice(1,3)
+// console.log(newArr)
+
+
+
+// foreach 
+
+// let arr = [1,2,3,4,5]
+
+// arr.forEach(function(n,i){
+//     arr[i]= n*2;
+// })
+
+// console.log(arr)
+
+// map 
+
+
+// let arr = [1,2,3]
+
+// let newArr= arr.map(function(n){
+//     return n*2
+// })
+
+// console.log(newArr)
+
+
+
+//filter 
+
+// let arr = [1,2,3]
+
+// let newArr= arr.filter(function(n){
+//     if (n>1) return true
+// })
+
+// console.log(newArr)
+
+
